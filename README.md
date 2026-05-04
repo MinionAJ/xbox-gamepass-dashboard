@@ -168,4 +168,4 @@ Este projeto simula um ambiente real de análise de dados e pode ser facilmente 
 
 ---
 
-🚀 *Feel free to fork, improve and use in your portfolio!*
+🚀 *Sinta-se a vontade para fazer um fork, usar em seu portfolio e fazer melhorias!*
