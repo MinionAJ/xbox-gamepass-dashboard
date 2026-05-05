@@ -23,8 +23,16 @@ O objetivo é simular um cenário real de negócio, aplicando técnicas de:
 
 ## 📊 Dashboard Preview
 
+* Preview (português)
+
 <p align="center">
-  <img src="docs/dashboard-preview.png" width="800"/>
+  <img src="docs/dashboard-preview1.png" width="800"/>
+</p>
+
+* Preview (inglês)
+
+<p align="center">
+  <img src="docs/dashboard-preview2.png" width="800"/>
 </p>
 
 ---
